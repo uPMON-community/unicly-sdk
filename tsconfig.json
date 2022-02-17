@@ -4,7 +4,7 @@
     "target": "es2018",
     "module": "esnext",
     "importHelpers": true,
-    "declaration": true,
+    "declaration": false,
     "sourceMap": true,
     "rootDir": "./",
     "strict": true,
